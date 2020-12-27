@@ -1,0 +1,5 @@
+file
+
+Only the first line will be taken into consideration:
+- if you want a memory version of the application write "in memory"
+- if you want a file version of the application write "file"
